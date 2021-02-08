@@ -1,3 +1,7 @@
+//Team
+// -Pauline Nalwanga
+//- Mercy Wamanga
+
 function findNthFibonacci(n) {
     //if index is less the 0 , function to return 0
     if (n < 0) {
